@@ -1,0 +1,14 @@
+{
+  "name": "fb-chat",
+  "version": "1.0.0",
+  "description": "Chats on FB",
+  "main": "server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anders",
+  "license": "ISC",
+  "dependencies": {
+    "facebook-chat-api": "^1.6.0"
+  }
+}
